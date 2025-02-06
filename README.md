@@ -21,3 +21,7 @@ The resulting images that the notebook geenrates are the following
 ![export_countries_by_state.png](./images/export_countries_by_state.png)
 
 ![import_countries_by_state.png](./images/import_countries_by_state.png)
+
+## Comments
+
+Following the reaction of investors and the destruction of value in the stock markets upon the administration announcing that the tariffs would be imposed, the administration quickly backtracked allegedly for a 30-day reprieve (which, given our understanding of the new president, will likely never be mentioned again) for both Canada and Mexico. Now seeing who the largest trading partners are (~80% of states export primarily to Canada or Mexico, and ~67% of states import primarily from Canada or Mexico), had the tariffs remained in place, the pain on exporters and consumers would have been significant.
