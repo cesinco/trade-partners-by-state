@@ -16,7 +16,7 @@ You can view the resulting notebook file [get_top_export_countries_by_state.ipyn
 
 ## Output
 
-The resulting images that the notebook geenrates are the following
+The resulting images that the notebook generates are the following
 
 ![export_countries_by_state.png](./images/export_countries_by_state.png)
 
