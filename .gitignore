@@ -1,0 +1,7 @@
+# Virtual environment files should all be excluded
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
