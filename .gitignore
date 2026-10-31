@@ -5,3 +5,8 @@ env/
 
 __pycache__/
 *.pyc
+
+.env
+.env.bak
+
+Table*.csv
