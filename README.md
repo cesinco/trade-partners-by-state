@@ -36,8 +36,9 @@ from the trade.gov website show that the following states all have the percent o
 and exports to Canada in proportion to the exports to the entire world exceeding
 the national average of 25.80%. The reciprocal tariffs are going to bite hard on these states.
 
-<div>
-<style scoped>
+<html>
+<head>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -51,6 +52,8 @@ the national average of 25.80%. The reciprocal tariffs are going to bite hard on
         text-align: right;
     }
 </style>
+</head>
+<body>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: left;">
@@ -113,13 +116,31 @@ the national average of 25.80%. The reciprocal tariffs are going to bite hard on
     </tr>
   </tbody>
 </table>
-</div>
+</body>
+</html>>
 
 
 Similarly, the states with the percentage of their imports from Canada in proportion to goods and services
 imported from the rest of the world exceeding the average across the USA of 28.39% are:
 
-<div>
+<html>
+<head>
+<style>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+    .dataframe thead tr th {
+        text-align: left;
+    }
+    .dataframe tbody td {
+        text-align: right;
+    }
+</style>
+</head>
+<body>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -188,4 +209,5 @@ imported from the rest of the world exceeding the average across the USA of 28.3
     </tr>
   </tbody>
 </table>
-</div>
+</body>
+</html>>
