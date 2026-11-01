@@ -39,18 +39,10 @@ the national average of 25.80%. The reciprocal tariffs are going to bite hard on
 <html>
 <head>
 <style>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    .dataframe thead tr th {
-        text-align: left;
-    }
-    .dataframe tbody td {
-        text-align: right;
-    }
+.dataframe tbody tr th:only-of-type {vertical-align: middle;}
+.dataframe tbody tr th {vertical-align: top;}
+.dataframe thead tr th {text-align: left;}
+.dataframe tbody td {text-align: right;}
 </style>
 </head>
 <body>
@@ -126,35 +118,13 @@ imported from the rest of the world exceeding the average across the USA of 28.3
 <html>
 <head>
 <style>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    .dataframe thead tr th {
-        text-align: left;
-    }
-    .dataframe tbody td {
-        text-align: right;
-    }
+.dataframe tbody tr th:only-of-type {vertical-align: middle;}
+.dataframe tbody tr th {vertical-align: top;}
+.dataframe thead tr th {text-align: left;}
+.dataframe tbody td {text-align: right;}
 </style>
 </head>
 <body>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-    .dataframe thead tr th {
-        text-align: left;
-    }
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
