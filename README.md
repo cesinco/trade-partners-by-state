@@ -37,14 +37,6 @@ and exports to Canada in proportion to the exports to the entire world exceeding
 the national average of 25.80%. The reciprocal tariffs are going to bite hard on these states.
 
 <html>
-<head>
-<style>
-.dataframe tbody tr th:only-of-type {vertical-align: middle;}
-.dataframe tbody tr th {vertical-align: top;}
-.dataframe thead tr th {text-align: left;}
-.dataframe tbody td {text-align: right;}
-</style>
-</head>
 <body>
 <table border="1" class="dataframe">
   <thead>
@@ -55,56 +47,56 @@ the national average of 25.80%. The reciprocal tariffs are going to bite hard on
   </thead>
   <tbody>
     <tr>
-      <th>North Dakota</th>
-      <td>80.60%</td>
+      <th style="text-align: left;">North Dakota</th>
+      <td style="text-align: right;">80.60%</td>
     </tr>
     <tr>
-      <th>Montana</th>
-      <td>46.55%</td>
+      <th style="text-align: left;">Montana</th>
+      <td style="text-align: right;">46.55%</td>
     </tr>
     <tr>
-      <th>South Dakota</th>
-      <td>45.87%</td>
+      <th style="text-align: left;">South Dakota</th>
+      <td style="text-align: right;">45.87%</td>
     </tr>
     <tr>
-      <th>West Virginia</th>
-      <td>44.10%</td>
+      <th style="text-align: left;">West Virginia</th>
+      <td style="text-align: right;">44.10%</td>
     </tr>
     <tr>
-      <th>Maine</th>
-      <td>41.22%</td>
+      <th style="text-align: left;">Maine</th>
+      <td style="text-align: right;">41.22%</td>
     </tr>
     <tr>
-      <th>Idaho</th>
-      <td>38.63%</td>
+      <th style="text-align: left;">Idaho</th>
+      <td style="text-align: right;">38.63%</td>
     </tr>
     <tr>
-      <th>Michigan</th>
-      <td>38.53%</td>
+      <th style="text-align: left;">Michigan</th>
+      <td style="text-align: right;">38.53%</td>
     </tr>
     <tr>
-      <th>Missouri</th>
-      <td>34.14%</td>
+      <th style="text-align: left;">Missouri</th>
+      <td style="text-align: right;">34.14%</td>
     </tr>
     <tr>
-      <th>Ohio</th>
-      <td>32.34%</td>
+      <th style="text-align: left;">Ohio</th>
+      <td style="text-align: right;">32.34%</td>
     </tr>
     <tr>
-      <th>Vermont</th>
-      <td>30.85%</td>
+      <th style="text-align: left;">Vermont</th>
+      <td style="text-align: right;">30.85%</td>
     </tr>
     <tr>
-      <th>Iowa</th>
-      <td>30.40%</td>
+      <th style="text-align: left;">Iowa</th>
+      <td style="text-align: right;">30.40%</td>
     </tr>
     <tr>
-      <th>Wisconsin</th>
-      <td>27.85%</td>
+      <th style="text-align: left;">Wisconsin</th>
+      <td style="text-align: right;">27.85%</td>
     </tr>
     <tr>
-      <th>Pennsylvania</th>
-      <td>26.74%</td>
+      <th style="text-align: left;">Pennsylvania</th>
+      <td style="text-align: right;">26.74%</td>
     </tr>
   </tbody>
 </table>
@@ -116,14 +108,6 @@ Similarly, the states with the percentage of their imports from Canada in propor
 imported from the rest of the world exceeding the average across the USA of 28.39% are:
 
 <html>
-<head>
-<style>
-.dataframe tbody tr th:only-of-type {vertical-align: middle;}
-.dataframe tbody tr th {vertical-align: top;}
-.dataframe thead tr th {text-align: left;}
-.dataframe tbody td {text-align: right;}
-</style>
-</head>
 <body>
 <table border="1" class="dataframe">
   <thead>
@@ -132,50 +116,50 @@ imported from the rest of the world exceeding the average across the USA of 28.3
       <th>IMPORT %</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="vertical-align: middle;">
     <tr>
-      <th>Montana</th>
-      <td>91.37%</td>
+      <th style="text-align: left;">Montana</th>
+      <td style="text-align: right;">91.37%</td>
     </tr>
     <tr>
-      <th>Vermont</th>
-      <td>70.02%</td>
+      <th style="text-align: left;">Vermont</th>
+      <td style="text-align: right;">70.02%</td>
     </tr>
     <tr>
-      <th>Maine</th>
-      <td>68.69%</td>
+      <th style="text-align: left;">Maine</th>
+      <td style="text-align: right;">68.69%</td>
     </tr>
     <tr>
-      <th>North Dakota</th>
-      <td>67.57%</td>
+      <th style="text-align: left;">North Dakota</th>
+      <td style="text-align: right;">67.57%</td>
     </tr>
     <tr>
-      <th>Wyoming</th>
-      <td>48.68%</td>
+      <th style="text-align: left;">Wyoming</th>
+      <td style="text-align: right;">48.68%</td>
     </tr>
     <tr>
-      <th>Michigan</th>
-      <td>47.24%</td>
+      <th style="text-align: left;">Michigan</th>
+      <td style="text-align: right;">47.24%</td>
     </tr>
     <tr>
-      <th>Oklahoma</th>
-      <td>45.91%</td>
+      <th style="text-align: left;">Oklahoma</th>
+      <td style="text-align: right;">45.91%</td>
     </tr>
     <tr>
-      <th>West Virginia</th>
-      <td>37.73%</td>
+      <th style="text-align: left;">West Virginia</th>
+      <td style="text-align: right;">37.73%</td>
     </tr>
     <tr>
-      <th>South Dakota</th>
-      <td>36.01%</td>
+      <th style="text-align: left;">South Dakota</th>
+      <td style="text-align: right;">36.01%</td>
     </tr>
     <tr>
-      <th>Minnesota</th>
-      <td>33.55%</td>
+      <th style="text-align: left;">Minnesota</th>
+      <td style="text-align: right;">33.55%</td>
     </tr>
     <tr>
-      <th>Idaho</th>
-      <td>32.48%</td>
+      <th style="text-align: left;">Idaho</th>
+      <td style="text-align: right;">32.48%</td>
     </tr>
   </tbody>
 </table>
